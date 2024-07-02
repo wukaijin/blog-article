@@ -427,7 +427,7 @@ get into Visual Mode
 - Type `I` to jump into _Insert mode_ and _prepend_ something to all lines in the beginning of the block.
 - Type `A` to do the same but this time _append_ something to all lines at the end of the block.
 
-```
+```bash
   start here
   /
  /
